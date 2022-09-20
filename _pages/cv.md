@@ -14,8 +14,10 @@ For complete CV, see *Link to come here*
 Education
 ======
 * PhD in Economics, University of Southern Denmark, 2023 (expected)
+  * Research stay at Stanford University 2022-2023
 * Masters of Economics, University of Southern Denmark, 2021, GPA: 12.0 (of 12.0).
-* Bachelor of Economics, University of Southern Denmark, 2018, GPA: 11.6 (of 12.0). *Awarded the Deloitte prize for best Bachelor project in Economics and Mathematics-Economics at the University of Southern Denmark*
+* Bachelor of Economics, University of Southern Denmark, 2018, GPA: 11.6 (of 12.0). 
+  * *Awarded the Deloitte prize for best Bachelor project in Economics and Mathematics-Economics at the University of Southern Denmark*
 
 Work experience
 ======
