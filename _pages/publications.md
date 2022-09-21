@@ -7,6 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+## Published papers
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.path contains 'published' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
+
+## Working papers
+
+{% for post in site.publications reversed %}
+  {% if post.path contains 'wp' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Selected work in progress
