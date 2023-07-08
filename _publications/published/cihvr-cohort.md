@@ -6,7 +6,7 @@ excerpt: ''
 author: 'Lise G Bjerregaard, Miriam Wüst, Torben S. D. Johansen, Thorkild I. A. Sørensen, Christian M. Dahl, and Jennifer L. Baker'
 date: 2023-07-04
 venue: 'International Journal of Epidemiology'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0014498322000511'
+paperurl: 'https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyad096/7219285'
 citation: 'Bjerregaard, L. G., Wüst, M., Johansen, T. S., Sørensen, T. I., Dahl, C. M., & Baker, J. L. (2023). Cohort Profile: The Copenhagen Infant Health Nurse Records (CIHNR) cohort. International Journal of Epidemiology, dyad096.'
 ---
 
