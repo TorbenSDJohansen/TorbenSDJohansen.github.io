@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
-I'm a PhD-student in economics at the Department of Economics at University of Southern Denmark
+I'm a PhD-student in economics at the Department of Economics at University of Southern Denmark.
 During my PhD, I spent the academic fall 2022 at the Stanford Univeristy.
 I'm part of the Econometrics and Data Science research platform and affiliated with the Historical Economics and Development Group (HEDG).
 
