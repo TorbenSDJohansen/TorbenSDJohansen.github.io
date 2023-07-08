@@ -1,5 +1,5 @@
 ---
-title: "Universal Investments in Toddler Health. Learning from a Large Government Trial"
+title: "Universal Investments in Toddler Health: Learning from a Large Government Trial"
 collection: publications.published
 permalink: /publication/cihvr-trial
 excerpt: ''
@@ -11,7 +11,7 @@ citation: 'Baker, Jennifer and Bjerregaard, Lise and Dahl, Christian M. and Joha
 ---
 
 **Authors**: 
-The paper is written by Jennifer Baker, Lise Bjerregaard, Christian M Dahl, Torben Johansen, Emil Sørensen, and Miriam Wüst.
+The paper is written by Jennifer Baker, Lise Bjerregaard, Christian M. Dahl, Torben S. D. Johansen, Emil N. Sørensen, and Miriam Wüst.
 
 **Download**: 
 You can access the working paper [here](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyad096/7219285).
