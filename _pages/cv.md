@@ -25,6 +25,6 @@ redirect_from:
   * University of Southern Denmark, Odense, Denmark
   * Responsibilities included reviewing literature, coding in R and Python, and preparing data
 
-* 2017-2019: Teaching Assistant
+* 2016-2019: Teaching Assistant
   * University of Southern Denmark, Odense, Denmark
   * Taught Methods for Dynamical Economics, International Economics, and Mathematics
