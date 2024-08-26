@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD-student in economics at the Department of Economics at University of Southern Denmark.
-During my PhD, I spent the academic fall 2022 at Stanford Univeristy.
+I'm an Assistant Professor in econometrics and data science at the Department of Economics at University of Southern Denmark (SDU) and a Data Scientist at Rooftop Analytics.
+I did my PhD in economics at SDU, during which I spent the academic fall 2022 at Stanford Univeristy.
 I'm part of the Econometrics and Data Science research platform and affiliated with the Historical Economics and Development Group (HEDG).
 
 ## My research
