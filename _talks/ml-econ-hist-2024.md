@@ -1,8 +1,8 @@
 ---
-title: "Synergies of Automated Transcription and Record Linkage"
+title: "Machine Learning in Economic History Workshop"
 collection: talks
 type: "Workshop"
-permalink: /talks/hcnc-2023
+permalink: /talks/ml-econ-hist-2024
 venue: "Lund University"
 date: 2024-01-23
 location: "Lund, Denmark"
