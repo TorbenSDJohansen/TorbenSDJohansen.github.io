@@ -8,7 +8,7 @@ date: 2024-04-28
 venue: 'arXiv'
 paperurl: 'https://www.dropbox.com/scl/fi/ay275j12rqeru6rsncw9w/DHTS_06302024.pdf?rlkey=rhb0dg7sayoobcqxxm84cdcrb&e=1&st=i25zzn4s&dl=0
 '
-citation: 'Dahl, Christian M., Sam Il Myoung Hwang, Torben S. D. Johansen, Munir Squires (2024). “Improving Historical Census Transcriptions: A Machine Learning Approach”.13604'
+citation: 'Dahl, Christian M., Sam Il Myoung Hwang, Torben S. D. Johansen, Munir Squires (2024). “Improving Historical Census Transcriptions: A Machine Learning Approach”.'
 ---
 
 **Authors**:
