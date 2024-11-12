@@ -2,7 +2,7 @@
 title: "Applied Statistics"
 collection: teaching
 type: "Lecturer, bachelor level course"
-permalink: /teaching/applied-stats-2024
+permalink: /teaching/applied-statistics-2024
 venue: "University of Southern Denmark"
 date: 2024-02-01-2024-06-30
 location: "Odense, Denmark"
