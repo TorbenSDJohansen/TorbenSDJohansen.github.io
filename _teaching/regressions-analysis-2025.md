@@ -1,7 +1,7 @@
 ---
 title: "Regression Analysis"
 collection: teaching
-type: ", bachelor level course"
+type: "Lecturer, bachelor level course"
 permalink: /teaching/regressions-analysis-2025
 venue: "University of Southern Denmark"
 date: 2025-09-01-2026-01-31
