@@ -13,7 +13,7 @@ redirect_from:
 * PhD in Economics, University of Southern Denmark, 2024
   * Research stay at Stanford University during academic fall 2022
 * Masters of Economics, University of Southern Denmark, 2021, GPA: 12.0 (of 12.0).
-* Bachelor of Economics, University of Southern Denmark, 2018, GPA: 11.6 (of 12.0). 
+* Bachelor of Economics, University of Southern Denmark, 2018, GPA: 11.6 (of 12.0).
   * *Awarded the Deloitte prize for best Bachelor project in Economics and Mathematics-Economics at the University of Southern Denmark*
 
 ## Work experience
@@ -21,7 +21,7 @@ redirect_from:
   * University of Southern Denmark, Odense, Denmark
   * Member of the Econometrics and Data Science research platform and affiliated with the Historical Economics and Development Group (HEDG),
 
-* 2023-: Data Scientist
+* 2023-2025: Data Scientist
   * Rooftop Analytics, Odense, Denmark
   * Responsibilities include building architectures for large ML projects, senior role with respect to code, train new staff
 
