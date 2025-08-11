@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor in econometrics and data science at the Department of Economics at University of Southern Denmark (SDU).
+I'm an Assistant Professor in econometrics and data science at the Department of Economics at the University of Southern Denmark (SDU).
 I did my PhD in economics at SDU, during which I spent the academic fall 2022 at Stanford University.
 I'm part of the Econometrics and Data Science research platform and affiliated with the Historical Economics and Development Group (HEDG).
 
