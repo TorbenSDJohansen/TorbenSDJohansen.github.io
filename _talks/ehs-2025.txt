@@ -1,0 +1,11 @@
+---
+title: "EHS Annual Conference"
+collection: talks
+type: "Conference presentation"
+permalink: /talks/ehs-2025
+venue: "University of Strathclyde"
+date: 2025-04-05
+location: "Glasgow, UK"
+---
+
+Presented the project “Improving Historical Census Transcriptions: A Machine Learning Approach”.
