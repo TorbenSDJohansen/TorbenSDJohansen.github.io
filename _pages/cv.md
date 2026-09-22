@@ -25,7 +25,6 @@ redirect_from:
   * Research stay at Stanford University during academic fall 2022
 * Masters of Economics, University of Southern Denmark, 2021, GPA: 12.0 (of 12.0).
 * Bachelor of Economics, University of Southern Denmark, 2018, GPA: 11.6 (of 12.0).
-  * *Awarded the Deloitte prize for best Bachelor project in Economics and Mathematics-Economics at the University of Southern Denmark*
 
 ## Former positions
 * 2023-2025: Data Scientist
@@ -47,3 +46,10 @@ redirect_from:
 * 2016-2019: Teaching Assistant
   * University of Southern Denmark, Odense, Denmark
   * Taught Methods for Dynamical Economics, International Economics, and Mathematics
+
+## Awards
+* 2026: Teacher of the Year (DKK 40,000), Faculty of Social Sciences, University of Southern Denmark
+* 2018: Deloitte prize for best Bachelor project in Economics and Mathematics-Economics, University of Southern Denmark
+
+## Referee activity
+I have refereed for the Journal of Health Economics, Explorations in Economic History, Historical Methods, Applied Economics, Nationaløkonomisk Tidsskrift, Journal of Affective Disorders, Image and Vision Computing, and the International Conference on Natural Language and Speech Processing (ICNLSP).
