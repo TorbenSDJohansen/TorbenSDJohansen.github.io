@@ -6,8 +6,7 @@ excerpt: ''
 author: 'Lise G. Bjerregaard, Torben S. D. Johansen, Christian M. Dahl, and Jennifer Baker'
 date: 2024-08-25
 venue: 'Public Health'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S003335062400372X
-'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S003335062400372X'
 citation: 'Bjerregaard, L. G., Johansen, T. S. D., Dahl, C. M., & Baker, J. L. (2024). Duration and intensity of being breastfed and educational attainment, income and labour force participation: a prospective cohort and sibling study from Denmark. Public Health, 237, 37-43.'
 ---
 
@@ -17,7 +16,7 @@ The paper is written by Lise G. Bjerregaard, Torben S. D. Johansen, Christian M.
 **Download**:
 You can access the paper [here](https://www.sciencedirect.com/science/article/pii/S003335062400372X).
 
-**Abtract**:
+**Abstract**:
 *Objective*: Breastfeeding improves cognitive ability in childhood, but the long-term impact on socioeconomic outcomes remains unknown. We examined associations between durations of predominant and any breastfeeding and educational attainment, income, and labor force participation in adulthood, and whether these varied by maternal education.
 *Study design*: Prospective cohort study.
 *Methods*: We followed 84,255 individuals born 1959–1967 with prospectively collected information on breastfeeding duration and intensity from the Copenhagen Infant Health Nurse Records. Socioeconomic outcome information came from national registers (1980–2020). Linear and Poisson regression were used, and models were adjusted for prenatal and postnatal variables across three levels of maternal education.

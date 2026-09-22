@@ -3,7 +3,7 @@ title: "Low-dose naltrexone for treatment of pain in patients with fibromyalgia:
 collection: publications.published
 permalink: /publication/naltrexone
 excerpt: ''
-author: 'Kirsten Bested, Lotte Marie Jensen, Tarp Andresen, Louise Skovbjerg, Torben S. D. Johansen, Anne V. Schmedes, Ida K. Storgaard, Jonna S. Madsen, Mads U. Werner, and Anette Bendiksen'
+author: 'Kirsten Bested, Lotte Marie Jensen, Trine Andresen, Grete Tarp, Louise Skovbjerg, Torben S. D. Johansen, Anne V. Schmedes, Ida K. Storgaard, Jonna S. Madsen, Mads U. Werner, and Anette Bendiksen'
 date: 2023-07-04
 venue: 'PAIN Reports'
 paperurl: 'https://journals.lww.com/painrpts/Fulltext/2023/08000/Low_dose_naltrexone_for_treatment_of_pain_in.3.aspx'
@@ -11,12 +11,12 @@ citation: 'Bested, K., Jensen, L. M., Andresen, T., Tarp, G., Skovbjerg, L., Joh
 ---
 
 **Authors**: 
-The paper is written by Kirsten Bested, Lotte Marie Jensen, Tarp Andresen, Louise Skovbjerg, Torben S. D. Johansen, Anne V. Schmedes, Ida K. Storgaard, Jonna S. Madsen, Mads U. Werner, and Anette Bendiksen.
+The paper is written by Kirsten Bested, Lotte Marie Jensen, Trine Andresen, Grete Tarp, Louise Skovbjerg, Torben S. D. Johansen, Anne V. Schmedes, Ida K. Storgaard, Jonna S. Madsen, Mads U. Werner, and Anette Bendiksen.
 
 **Download**: 
 You can access the paper [here](https://journals.lww.com/painrpts/Fulltext/2023/08000/Low_dose_naltrexone_for_treatment_of_pain_in.3.aspx).
 
-**Abtract**:
+**Abstract**:
 Introduction: Fibromyalgia (FM) is a chronic fluctuating, nociplastic pain condition. Naltrexone is a µ-opioid-receptor antagonist; preliminary studies have indicated a pain-relieving effect of low-dose naltrexone (LDN) in patients with FM. The impetus for studying LDN is the assumption of analgesic efficacy and thus reduction of adverse effects seen from conventional pharmacotherapy.
 
 Objectives: First, to examine if LDN is associated with analgesic efficacy compared with control in the treatment of patients with FM. Second, to ascertain the analgesic efficacy of LDN in an experimental pain model in patients with FM evaluating the competence of the descending inhibitory pathways compared with controls. Third, to examine the pharmacokinetics of LDN.
@@ -32,7 +32,7 @@ If you would like to cite our paper, please use
 ```bibtex
 @article{bested2023naltrexone,
     title={Low-dose naltrexone for treatment of pain in patients with fibromyalgia: a randomized, double-blind, placebo-controlled, crossover study},
-    author={Bested, Kirsten and Jensen, Lotte M and Andresen, Trine and Tarp, Grete and Skovbjerg, Louise and Johansen, Torben SD and Schmedes, Anne V and Storgaard, Ida K and Madsen, Jonna S and Werner, Mads U and others},
+    author={Bested, Kirsten and Jensen, Lotte M and Andresen, Trine and Tarp, Grete and Skovbjerg, Louise and Johansen, Torben SD and Schmedes, Anne V and Storgaard, Ida K and Madsen, Jonna S and Werner, Mads U and Bendiksen, Anette},
     journal={PAIN Reports},
     volume={8},
     number={4},
