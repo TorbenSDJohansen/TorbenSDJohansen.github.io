@@ -20,7 +20,10 @@ You can access the working paper [here](https://arxiv.org/abs/2402.13604).
 You can find the code for the project [here](https://github.com/christianvedels/OccCANINE).
 A [YouTube video](https://youtu.be/BF_oNe-sABQ?si=uEgNYLtPGNYAXCDK) showing how to use the code is also available.
 
-**Abtract**:
+**Data**:
+HISCO codes for the Danish census data (Link-Lives, 1787–1901), produced with OccCANINE, are available [here](https://doi.org/10.7910/DVN/WZILNI).
+
+**Abstract**:
 This paper introduces a new tool, OccCANINE, to automatically transform occupational descriptions into the HISCO classification system. The manual work involved in processing and classifying occupational descriptions is error-prone, tedious, and time-consuming. We finetune a preexisting language model (CANINE) to do this automatically, thereby performing in seconds and minutes what previously took days and weeks. The model is trained on 14 million pairs of occupational descriptions and HISCO codes in 13 different languages contributed by 22 different sources. Our approach is shown to have accuracy, recall, and precision above 90 percent. Our tool breaks the metaphorical HISCO barrier and makes this data readily available for analysis of occupational structures with broad applicability in economics, economic history, and various related disciplines.
 
 ## Citing
