@@ -12,6 +12,8 @@ author_profile: true
 
 ## Published papers
 
+*Clinical papers are listed separately under [Clinical research](#clinical-research).*
+
 {% for post in site.publications reversed %}{% if post.path contains '/published/' %}
 {% assign coauthors = post.author | replace: ", and ", ", " | replace: " and ", ", " | split: ", " | where_exp: "name", "name != me" %}
 **[{{ post.title }}]({{ base_path }}{{ post.url }})**<br>

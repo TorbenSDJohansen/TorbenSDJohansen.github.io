@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**[Download my full CV (PDF)]({{ base_path }}/files/Torben_Johansen_CV.pdf)**
+
 ## Current positions
 * 2024-: Assistant Professor
   * University of Southern Denmark, Odense, Denmark
