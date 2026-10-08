@@ -44,6 +44,16 @@ Aging societies increasingly rely on longer working lives, yet evidence on which
 History is rich in information about people’s occupations but far less forthcoming on outcomes such as income, wealth, or skills. For this reason, a widely used approach is to proxy these outcomes by averages or medians within each occupational category—so-called occupational scores—of which IPUMS’ occscore (Sobek, 1995) is the most prevalent. This strategy has enabled new insights into topics as varied as technological change, inequality, and institutions. But existing occscores are limited: they rely on fixed benchmarks such as 1950 U.S. wages, discard ambiguity in historical titles, and are difficult to adapt across time and space, generating downstream biases that are hard to correct (Inwood, Minns, &amp; Summerfield, 2019; Saavedra &amp; Twinam, 2020). A key problem is that researchers cannot feasibly construct a new occupational score by hand for every project. This paper introduces a way to automatically estimate occupational scores tailored to any project. CHAOS is a replicable, fully automatic, and interpretable framework for converting historical occupational descriptions into outcome estimates given a source. The key insight is that any occupational score is a weighted average of observed outcomes, where the weights reflect the relevance of each piece of source information. These relevance weights can be estimated automatically using a classification algorithm such as OccCANINE (Dahl, Johansen, &amp; Vedel, 2024) enabling entirely new scales of data collection in economic history. Beyond data construction, we provide a general econometric framework for occupational scores, characterizing the bias they entail relative to true outcomes and deriving a correction method based on recent advances in debiased machine learning. We demonstrate the utility of CHAOS through an application to historical U.S. wage reports covering 88,000 occupation–income pairs across U.S. states throughout the 19th century. From this source we recover decadal wage estimates by state and use them to estimate the evolution of skill bias across an entire century of the Industrial Revolution.
 </details>
 
+## Clinical research
+
+{% for post in site.publications reversed %}{% if post.path contains '/clinical/' %}
+{% assign coauthors = post.author | replace: ", and ", ", " | replace: " and ", ", " | split: ", " | where_exp: "name", "name != me" %}
+**[{{ post.title }}]({{ base_path }}{{ post.url }})**<br>
+{% if coauthors.size > 0 %}*With {{ coauthors | array_to_sentence_string | replace: "'", "’" }}.* {% endif %}Published in *{{ post.venue }}*, {{ post.date | date: "%Y" }}.
+{% endif %}{% endfor %}
+
+### Work in progress
+
 **Reducing pain and distress in pediatric blood sampling: A pre-post multicomponent intervention study**<br>
 *With Louise Kjersgaard Jakobsen, Ina Mathilde Kjær, Bente Lindberg Callesen, Hanne Irene Jensen, Patricia Diana Sørensen, Rikke Møller Andersen, Randi Lehmann Boesen, Ulla List Tønnesen, Karin Bundgaard Nielsen, Thomas Houmann Petersen, and Jonna Skov Madsen.*
 
