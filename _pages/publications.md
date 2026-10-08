@@ -5,23 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>.archive > .page__title { display: none; } .archive > h2:first-of-type { margin-top: 0; }</style>
+
 {% include base_path %}
+{% assign me = "Torben S. D. Johansen" %}
 
 ## Published papers
 
-{% for post in site.publications reversed %}
-  {% if post.path contains 'published' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% for post in site.publications reversed %}{% if post.path contains '/published/' %}
+{% assign coauthors = post.author | replace: ", and ", ", " | replace: " and ", ", " | split: ", " | where_exp: "name", "name != me" %}
+**[{{ post.title }}]({{ base_path }}{{ post.url }})**<br>
+{% if coauthors.size > 0 %}*With {{ coauthors | array_to_sentence_string | replace: "'", "’" }}.* {% endif %}Published in *{{ post.venue }}*, {{ post.date | date: "%Y" }}.
+{% endif %}{% endfor %}
 
 ## Working papers
 
-{% for post in site.publications reversed %}
-  {% if post.path contains 'wp' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% for post in site.publications reversed %}{% if post.path contains '/wp/' %}
+{% assign coauthors = post.author | replace: ", and ", ", " | replace: " and ", ", " | split: ", " | where_exp: "name", "name != me" %}
+**[{{ post.title }}]({{ base_path }}{{ post.url }})**<br>
+{% if coauthors.size > 0 %}*With {{ coauthors | array_to_sentence_string | replace: "'", "’" }}.* {% endif %}{% if post.status %}{{ post.status }}.{% endif %}
+{% endif %}{% endfor %}
 
 ## Selected work in progress
 
